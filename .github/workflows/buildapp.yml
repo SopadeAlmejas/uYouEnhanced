@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://decrypt.day/fs/dl/s/7SDf7QzxWfhWbmyH9shdc/com.google.ios.youtube_20.46.2_und3fined.ipa?X-Amz-Expires=300&X-Amz-Date=20251120T170152Z&X-Amz-Security-Token=9a1982ffdb55034d.0vVlM68b-j8Nc4R32fp7Z.544007664&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=5984fa5d025ac1fb47a47653444599a2%2F20251120%2Fauto%2F%2Faws4_request&X-Amz-SignedHeaders=host&X-Amz-Signature=02564e28bf6f6bffcc64519cd522a3a419f810b2c1cbc0b8877c4b715a5cecf5"
         default: ""
         required: true
         type: string
